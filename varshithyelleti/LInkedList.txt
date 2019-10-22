@@ -1,0 +1,1 @@
+Linked List is the basic datastructure for the dynamic allocated array which can be traversed using the head
